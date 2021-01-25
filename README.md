@@ -13,7 +13,7 @@ Create a database in mongoDB named pets
 
 run npm start mongod
 
-../vet-pet
+../vet-api
 
 npm start // This runs the api 
 
